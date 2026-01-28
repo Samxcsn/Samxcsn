@@ -16,11 +16,11 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://github.com/Samxcsn">
     <img src="https://img.shields.io/badge/GitHub-Samxcsn-181717?style=for-the-badge&logo=github" />
   </a>
-  
+  <p></p>
   <a href="https://instagram.com/codebysamx">
     <img src="https://img.shields.io/badge/Instagram-@Code By Samx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
+  <p></p>
   <a href="https://www.tiktok.com/@codebysamx">
     <img src="https://img.shields.io/badge/TikTok-@Code By Samx-000000?style=for-the-badge&logo=tiktok" />
   </a>
